@@ -1,6 +1,3 @@
-# GATO_FINAL_LiveCoding
-Pixel Universes
-
 # Pixels Universe
 
 ## Concept Description
@@ -12,7 +9,7 @@ The guidelines were to be able to show the visually difference between the instr
 
 ## Main Functionality:
 
-The System works This Way: ABLETON > TOUCHDESIGNER > PROCESSING. 
+The System works This Way: **ABLETON > TOUCHDESIGNER > PROCESSING**. 
 
 - Ableton Sends Signal to Touchdesigner through TDAbleton, so the MIDI values can be customized and used. 
 - TouchDesigner then transforms those values to OSC, and sends them to Processing with the correct naming convention. 
